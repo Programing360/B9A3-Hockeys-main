@@ -1,0 +1,31 @@
+/* get in touch */
+.get-in-touch{
+    margin-top: 48px;
+    border: 2px solid #13131832;
+    border-radius: 16px;
+    padding: 50px;
+}
+.phone-number{
+    background-color: #bced6d3c;
+    padding: 35px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+
+    
+}
+.phone-number h3{
+    font-size: 16px;
+    line-height: 32px;
+    color: #131318;
+    padding-top: 16px;
+}
+.number{
+    font-size: 18px;
+    font-weight: 800;
+    color: #131318;
+}
+.media{
+    font-size: 24px;
+    font-weight: 900;
+    padding-bottom: 24px;
+}
